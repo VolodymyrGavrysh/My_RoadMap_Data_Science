@@ -1,15 +1,12 @@
 ![](https://raw.githubusercontent.com/VolodymyrGavrysh/My_RoadMap_Data_Science/master/books_to_read/ai.jpg)
 ===============================================================================================================================
-Own way of studying data science, machine learning and AI.
 ### Programming 
-  
+  **Python &Django** by https://ithillel.ua/
+![](https://raw.githubusercontent.com/VolodymyrGavrysh/My_RoadMap_Data_Science/master/pictures/ext/.jpeg)
 
-| Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:        |
-| col 3 is      | some wordy text | $1600         |
-| col 2 is      | centered        |   $12         |
-| zebra stripes | are neat        |    $1         |
 
+| Course & specialization        | Topic                | Status |
+|--------------------------------|----------------------|------- |
 
 
 **My professional career on LinkedIn**
