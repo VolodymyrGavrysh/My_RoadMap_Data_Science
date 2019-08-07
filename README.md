@@ -1,22 +1,23 @@
 ![](https://raw.githubusercontent.com/VolodymyrGavrysh/My_RoadMap_Data_Science/master/books_to_read/ai.jpg)
 ===============================================================================================================================
 ### Programming 
-  **Python &Django** by https://ithillel.ua/
+  **Python 3.6 & Django ** by https://ithillel.ua/
+
 ![](https://raw.githubusercontent.com/VolodymyrGavrysh/My_RoadMap_Data_Science/master/pictures/ext/.jpeg)
 
 
+**DataCamp accout&progress**
+https://www.datacamp.com/profile/VolodymyrGavrysh 
+
 | Course & specialization        | Topic                | Status |
 |--------------------------------|----------------------|------- |
+| DataCamp
 
-
-**My professional career on LinkedIn**
+**Professional career on LinkedIn**
 https://www.linkedin.com/in/volodymyrgavrish/
 
 **Account on Kaggle**
 https://www.kaggle.com/volodymyrgavrysh
-
-**DataCamp accout&progress**
-https://www.datacamp.com/profile/VolodymyrGavrysh 
 
 **Coursera**
 Introduction to Finance
