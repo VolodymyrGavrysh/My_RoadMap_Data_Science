@@ -1,14 +1,11 @@
-<<<<<<< HEAD
 # My_RoadMap_Data_Science
-=======
+
 ![](https://raw.githubusercontent.com/VolodymyrGavrysh/My_RoadMap_Data_Science/master/books_to_read/ai.jpg)
-===============================================================================================================================
+
 ### Programming 
   **Python 3.6 & Django ** by https://ithillel.ua/
->>>>>>> 97daf440a6353f58db0042a3a6d49017a9bdf9cd
 
 ![](https://raw.githubusercontent.com/VolodymyrGavrysh/My_RoadMap_Data_Science/master/pictures/ext/.jpeg)
-
 
 **DataCamp accout&progress**
 https://www.datacamp.com/profile/VolodymyrGavrysh 
