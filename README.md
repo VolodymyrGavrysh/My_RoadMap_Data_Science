@@ -1,11 +1,9 @@
-# My_RoadMap_Data_Science
+# My_RoadMap_to_Data_Science
 
 ![](https://raw.githubusercontent.com/VolodymyrGavrysh/My_RoadMap_Data_Science/master/books_to_read/ai.jpg)
 
-### Programming 
+### Programming ### 
   **Python 3.6 & Django ** by https://ithillel.ua/
-
-![](https://raw.githubusercontent.com/VolodymyrGavrysh/My_RoadMap_Data_Science/master/pictures/ext/.jpeg)
 
 **DataCamp accout&progress**
 https://www.datacamp.com/profile/VolodymyrGavrysh 
@@ -15,10 +13,9 @@ https://www.datacamp.com/profile/VolodymyrGavrysh
 | DataCamp                       |                       |        |
 
 
-** MLcourse.ai https://mlcourse.ai/rating
+** MLcourse.ai https://mlcourse.ai/rating **
 4th session 2018, 384th place from 2200 participants
 https://docs.google.com/spreadsheets/d/19AGEhUQUol6_kNLKSzBsjcGUU3qWy3BNUg8x8IFkO3Q/edit#gid=0&range=A384
-
 
 **Professional career on LinkedIn**
 https://www.linkedin.com/in/volodymyrgavrish/
