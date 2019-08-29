@@ -41,24 +41,26 @@ Python 3.6 & Django by https://ithillel.ua/ - completed [Sertificate](https://ra
 
 + 30 others completed projects (here https://github.com/VolodymyrGavrysh/DataCamp_projects)
 
+#### Stanford University
+| **Course**                                       | Topics                    | Status        |
+|--------------------------------------------------|---------------------------|---------------|
+| cs231n  http://cs231n.stanford.edu/syllabus.html | CNN                       | 2d homework   |
+| cs229   http://cs229.stanford.edu/syllabus.html  | ML                        | 2019          |
+| cs121                                            | Introduction to AI        | ?             |
+| cs50                                             | ML                        | 2019          |
+|cs 161 http://web.stanford.edu/class/cs161/       | Design Analysis Algorithms| 2019          |
+| cs124                                            | Algorithms                | ?             |
 
-
-
-
-
-
-
-MLcourse.ai https://mlcourse.ai/rating
+#### MLcourse.ai https://mlcourse.ai/rating 
 4th session 2018, 384th place from 2200 participants
 https://docs.google.com/spreadsheets/d/19AGEhUQUol6_kNLKSzBsjcGUU3qWy3BNUg8x8IFkO3Q/edit#gid=0&range=A384
 
-Professional career on LinkedIn
+#### Professional career on LinkedIn
 https://www.linkedin.com/in/volodymyrgavrish/
 
-Account on Kaggle
-https://www.kaggle.com/volodymyrgavrysh
+#### Account on Kaggle https://www.kaggle.com/volodymyrgavrysh
 
-Coursera
+#### Coursera
 Introduction to Finance
 https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/112~698735/pdf
 Foundations of Business Strategy
