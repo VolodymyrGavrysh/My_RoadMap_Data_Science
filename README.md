@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/VolodymyrGavrysh/My_RoadMap_Data_Science/master/pictures/ai.jpg) 
 
 ### Programming ### 
-  **Python 3.6 & Django ** by https://ithillel.ua/ - completed 
+  **Python 3.6 & Django ** by https://ithillel.ua/ - completed [Sertificate](https://raw.githubusercontent.com/VolodymyrGavrysh/My_RoadMap_Data_Science/master/pictures/ext.jpeg)
 ### Data Science ## 
 **DataCamp accout&progress**
 https://www.datacamp.com/profile/VolodymyrGavrysh 
