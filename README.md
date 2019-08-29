@@ -3,8 +3,8 @@
 ![](https://raw.githubusercontent.com/VolodymyrGavrysh/My_RoadMap_Data_Science/master/books_to_read/ai.jpg)
 
 ### Programming ### 
-  **Python 3.6 & Django ** by https://ithillel.ua/
-
+  **Python 3.6 & Django ** by https://ithillel.ua/ - completed 
+### Data Science ## 
 **DataCamp accout&progress**
 https://www.datacamp.com/profile/VolodymyrGavrysh 
 
