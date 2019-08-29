@@ -44,7 +44,7 @@ Python 3.6 & Django by https://ithillel.ua/ - completed [Sertificate](https://ra
 #### hackathon and competitions
 | **hackathons and competitions**                                                                        |
 |--------------------------------------------------------------------------------------------------------|
-| Deloitte Touche. sentimnet analysis 2018. member of team.                                              |
+| Deloitte Touche. sentiment analysis 2018. member of team.                                              |
 | Vodafon. customer base analysis 2018. https://www.kaggle.com/c/aibooster-vodafone-music-challenge      |
 
 #### Stanford University 
