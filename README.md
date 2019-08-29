@@ -1,13 +1,11 @@
-![](https://raw.githubusercontent.com/VolodymyrGavrysh/My_RoadMap_Data_Science/master/pictures/ai.jpg) 
-
 #Programming
 
 Python 3.6 & Django by https://ithillel.ua/ - completed [Sertificate](https://raw.githubusercontent.com/VolodymyrGavrysh/My_RoadMap_Data_Science/master/pictures/ext.jpeg)
 
-#Data Science
-##DataCamp accout&progress https://www.datacamp.com/profile/VolodymyrGavrysh 
+##Data Science
+####DataCamp accout&progres https://www.datacamp.com/profile/VolodymyrGavrysh
 
-| Course & projects              | Topics                    | Status   |
+| **Course & projects**          | Topics                    | Status   |
 |--------------------------------|---------------------------|----------|
 |Python Programmer for DS        | CAREER TRACK, 23 courses  |completed |
 |Data Scientist with Python      | CAREER TRACK, 22 courses  |completed |
@@ -19,7 +17,8 @@ Python 3.6 & Django by https://ithillel.ua/ - completed [Sertificate](https://ra
 |Building Chatbots in Python     | course                    |completed |
 |Unsupervised Learning in Python | course                    |completed |
 |Advanced Deep Learning by Keras | course                    |completed |
-| Course & projects                     | Topics                    | Status   |
+
+| **Course & projects**                 | Topics                    | Status   |
 |Data Visualization                     |  SKILL TRACK 4 courses    |inprogress|
 |Big Data Fundamentals via PySpark      |  course                   |inprogress|
 |Extreme Gradient Boosting with XGBoost |  course                   |inprogress|
@@ -31,13 +30,13 @@ Python 3.6 & Django by https://ithillel.ua/ - completed [Sertificate](https://ra
 |Winning a Kaggle Competition in Python |  course                   |inprogress|
 |Unit Testing for Data Science in Python|  course                   |inprogress|
 
-##completed Projects  
-| Course & projects                     | Topics                    | Status   |
+####completed Projects
+
+| **Course & projects**                 | Topics                    | Status   |
 |Network analysis of Game of Thrones    |Projects                   |completed |
 |New Era of Data Analysis in Baseball   |Projects                   |completed |
 | Visual History of Nobel Prize Winners |Projects                   |completed |
 + 30 others completed projects (all here https://github.com/VolodymyrGavrysh/DataCamp_projects)
-
 
 
 
