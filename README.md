@@ -1,6 +1,6 @@
 # My_RoadMap_to_Data_Science
 
-![](https://raw.githubusercontent.com/VolodymyrGavrysh/My_RoadMap_Data_Science/master/books_to_read/ai.jpg)
+
 
 ### Programming ### 
   **Python 3.6 & Django ** by https://ithillel.ua/ - completed 
