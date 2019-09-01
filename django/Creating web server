@@ -1,0 +1,148 @@
+Creating web server
+
+1. Def save() add *args **kwargs
+
+apt-get update && apt-get upgrate
+
+hostnamectl set-hostname NAME
+nano /etc/host
+    ADD ip HOST NAME
+adduser USER
+adduser USER sudo
+USER@IP login
+# create folder shh
+mkdir -p ~/.shh
+# on local machine
+shh-keygen -b 4096
+# bring public key to server
+scp ~/.ssh/id_rsa.pub USER@IP:~/.ssh/authorized_keys
+# setting the permition for this derectoty
+sudo chmod 700 ~/.ssh/
+sudo chmod 600 ~/.ssh/
+
+ssh USER@IP (connect)
+
+# not to login as SUDO
+sudo nano /etc/ssh/sshd_config
+
+PermitRootLogin no
+PasswordAuthentication no
+
+sudo systemctl restart sshd
+
+# setup firewall
+sudo apt-get install ufw
+sudo ufw defalt allow outgoing
+sudi ufw default deny incoming
+sudo ufw allow ssh
+sudo ufw allow 800
+
+sudo ufw enable
+sudo status
+
+# deploy app django
+source Destop/django/bin/activate # use env
+pip freeze # see the what
+pip freeze > requarements.txt
+# put requ.txt into django
+scp -r django_ USER@IP:~/ # from local m
+
+sudo apt-get install python3-pip
+
+sudo apt-get install python3-venv
+
+python3 -m venv dkjango_/venv
+source django_/venv
+pip install -r requarements.txt
+
+# settings
+sudo nano django_/settings.py
+ALLOWED_HOSTS = ['IP'] # or domain
+STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+
+python manage.py collecstatic
+
+# test and start
+python manage.py runserver 0.0.0.0:8000
+IP:8000 - access
+
+# forgot pass
+sudo apt-get install apachi2
+sudo apt-get install libapache2-mod-wsgi-py3
+# cong server
+cd /ect/apache2/sites-available/
+sudo cp 000-defalt.conf django_project.conf
+sudo nano django_project.conf
+
+    Alias /static  /home/USER/PROJECT/static
+    <Directory /home/USER/PROJECT/static Require all granted
+    </Directory>
+
+    Alias /media  /home/USER/PROJECT/static
+    <Directory /home/USER/PROJECT/media Require all granted
+    </Directory>
+
+    Directory /home/USER/PROJECT/PROJECT
+    <Files wsgi.py>
+    Require all granted
+    </Files>
+
+    WSGIcriptAlias / /home/USER/PROJECT/PROGECT/wsgi.py
+    WSGIDaemonProcess djago_app ptyhon-path=/home/USER/PROJECT/ #see github
+    WSGIProcessGroup djago_app
+
+    </Directory>
+</VirtualHost>
+
+# Enable web site
+sudo a2ensite django_project
+sudo a2dissite 000-defalt.conf
+# per
+sudo chown :www-data django_project/db.sqlite3
+sudo chmod 664 django_project/db.sqlite
+sudo chown :www-data django_project
+sudo chwon -R :www-data django_project/media/
+sudo chmod -R 775 django_project/media/
+
+# to see the per ls -la
+
+# create confg file for permissions
+sudo touch /etc/config.json
+# get the secret key
+sudo nano django_progect/django_progect/settings.py
+
+import json #add at the top
+with open('/etc/confirg.jsan')
+as con
+    config = json.load(con)
+
+SECRET_KEY = config['SECRET_KEY']
+#copy, erase, save
+DEBUG = False
+
+sudo nano config.json
+{
+   'SECRET_KEY':'KEY',
+   'EMAIL_USER' : "",
+   'EMAIL_PASS' : ""
+}
+
+EMAIL_HOST_USER = config.get['EMAIL_USEER']
+
+# add pport
+sudo ufw delete allow 8000
+sudo ufw allow http/tcp
+sudo service apache2 restart
+
+# per database
+sudo chmod 775 django_project/
+# you need add per to directory as well
+
+# Django Dep check list
+
+
+
+
+
+
+
