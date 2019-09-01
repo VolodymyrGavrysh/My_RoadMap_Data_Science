@@ -47,6 +47,11 @@ Python 3.6 & Django by https://ithillel.ua/ - completed [Sertificate](https://ra
 | Deloitte Touche. sentiment analysis 2018. member of team.                                              |
 | Vodafon. customer base analysis 2018. https://www.kaggle.com/c/aibooster-vodafone-music-challenge      |
 
+### Publications
+| **Links**                                                                                              |
+|--------------------------------------------------------------------------------------------------------|
+|['Testing the null hypothesis using bootstrapping on the example of salaries of Ukrainian programmers (14 and 19 years)'](https://github.com/VolodymyrGavrysh/My_RoadMap_Data_Science/tree/master/habr)|
+
 #### Stanford University 
 | **Course**                                       | Topics                    | Status        |
 |--------------------------------------------------|---------------------------|---------------|
@@ -61,10 +66,6 @@ Python 3.6 & Django by https://ithillel.ua/ - completed [Sertificate](https://ra
 4th session 2018, 384th place from 2200 participants
 https://docs.google.com/spreadsheets/d/19AGEhUQUol6_kNLKSzBsjcGUU3qWy3BNUg8x8IFkO3Q/edit#gid=0&range=A384
 
-#### Professional career on LinkedIn https://www.linkedin.com/in/volodymyrgavrish/
-
-#### Account on Kaggle https://www.kaggle.com/volodymyrgavrysh
-
 #### Coursera
 Introduction to Finance
 https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/112~698735/pdf
@@ -72,3 +73,7 @@ Foundations of Business Strategy
 https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/971029~698735/pdf
 Engaging Citizens: A Game Changer for Development?
 https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/976482~698735/pdf
+
+#### Professional career on LinkedIn https://www.linkedin.com/in/volodymyrgavrish/
+
+#### Account on Kaggle https://www.kaggle.com/volodymyrgavrysh
