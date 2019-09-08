@@ -1,7 +1,5 @@
 Cython==0.23.4
-Jinja2==2.8
 MarkupSafe==0.23
-Pillow==3.0.0
 Pygments==2.0.2
 appnope==0.1.0
 argparse==1.2.1
@@ -22,10 +20,8 @@ jupyter-client==4.1.1
 jupyter-console==4.0.3
 jupyter-core==4.0.6
 matplotlib==2.0.0
-mistune==0.7.1
 nbconvert==4.1.0
 nbformat==4.0.1
-notebook==4.0.6
 numpy==1.10.4
 path.py==8.1.2
 pexpect==4.0.1
