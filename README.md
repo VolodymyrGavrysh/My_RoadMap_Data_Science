@@ -20,7 +20,7 @@ Python 3.6 & Django by https://ithillel.ua/ - completed [Sertificate](https://ra
 
 | **Course & projects**                 | Topics                    | Status   |
 |---------------------------------------|---------------------------|----------|
-|Data Visualization                     |  SKILL TRACK 4 courses    |inprogress|
+|Data Visualization                     |  SKILL TRACK 4 courses    |completed |
 |Big Data Fundamentals via PySpark      |  course                   |inprogress|
 |Extreme Gradient Boosting with XGBoost |  course                   |inprogress|
 |Deep Learning with Keras in Python     |  course                   |inprogress|
@@ -28,7 +28,7 @@ Python 3.6 & Django by https://ithillel.ua/ - completed [Sertificate](https://ra
 |Machine Learning with Tree-Based Modele|  course                   |inprogress|
 |Deep Learning with PyTorche            |  course                   |inprogress|
 |Customer Analytics & A/B Testing in Py |  course                   |inprogress|
-|Winning a Kaggle Competition in Python |  course                   |inprogress|
+|Winning a Kaggle Competition in Python |  course                   |completed |
 |Unit Testing for Data Science in Python|  course                   |inprogress|
 
 #### Completed Projects (here https://github.com/VolodymyrGavrysh/DataCamp_projects)
