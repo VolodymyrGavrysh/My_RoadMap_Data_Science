@@ -23,10 +23,10 @@ Python 3.6 & Django by https://ithillel.ua/ - completed [Sertificate](https://ra
 |Data Visualization                     |  SKILL TRACK 4 courses    |completed |
 |Big Data Fundamentals via PySpark      |  course                   |inprogress|
 |Extreme Gradient Boosting with XGBoost |  course                   |inprogress|
-|Deep Learning with Keras in Python     |  course                   |inprogress|
-|Convolutional Neural Networks for Image|  course                   |inprogress|
+|Deep Learning with Keras in Python     |  course                   |completed |
+|Convolutional Neural Networks for Image|  course                   |completed |
 |Machine Learning with Tree-Based Modele|  course                   |inprogress|
-|Deep Learning with PyTorche            |  course                   |inprogress|
+|Deep Learning with PyTorche            |  course                   |completed |
 |Customer Analytics & A/B Testing in Py |  course                   |inprogress|
 |Winning a Kaggle Competition in Python |  course                   |completed |
 |Unit Testing for Data Science in Python|  course                   |inprogress|
@@ -65,6 +65,8 @@ Python 3.6 & Django by https://ithillel.ua/ - completed [Sertificate](https://ra
 #### MLcourse.ai Open Machine Learning Course https://mlcourse.ai/rating 
 4th session 2018, 384th place from 2200 participants
 https://docs.google.com/spreadsheets/d/19AGEhUQUol6_kNLKSzBsjcGUU3qWy3BNUg8x8IFkO3Q/edit#gid=0&range=A384
+Second session 2016, rating here
+https://docs.google.com/spreadsheets/d/15e1K0tg5ponA5R6YQkZfihrShTDLAKf5qeKaoVCiuhQ/edit#gid=0
 
 #### Coursera
 Introduction to Finance
