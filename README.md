@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/VolodymyrGavrysh/My_RoadMap_Data_Science/master/pictures/ai.jpg) 
+![](https://raw.githubusercontent.com/VolodymyrGavrysh/My_RoadMap_Data_Science/master/pictures/ai.jpg)
 ## Programming
 Python 3.6 & Django by https://ithillel.ua/ - completed [Sertificate](https://raw.githubusercontent.com/VolodymyrGavrysh/My_RoadMap_Data_Science/master/pictures/ext.jpeg)
 ## Data Science
@@ -52,7 +52,7 @@ Python 3.6 & Django by https://ithillel.ua/ - completed [Sertificate](https://ra
 |--------------------------------------------------------------------------------------------------------|
 |['Testing the null hypothesis using bootstrapping on the example of salaries of Ukrainian programmers (14 and 19 years)'](https://github.com/VolodymyrGavrysh/My_RoadMap_Data_Science/tree/master/habr)|
 
-#### Stanford University 
+#### Stanford University
 | **Course**                                       | Topics                    | Status        |
 |--------------------------------------------------|---------------------------|---------------|
 | cs231n  http://cs231n.stanford.edu/syllabus.html | CNN                       | 2d homework   |
@@ -62,9 +62,10 @@ Python 3.6 & Django by https://ithillel.ua/ - completed [Sertificate](https://ra
 | cs 161 http://web.stanford.edu/class/cs161/      | Design Analysis Algorithms| 2019          |
 | cs124  Algorithms                                | Algorithms                | ?             |
 
-#### MLcourse.ai Open Machine Learning Course https://mlcourse.ai/rating 
+#### MLcourse.ai Open Machine Learning Course https://mlcourse.ai/rating
 4th session 2018, 384th place from 2200 participants
 https://docs.google.com/spreadsheets/d/19AGEhUQUol6_kNLKSzBsjcGUU3qWy3BNUg8x8IFkO3Q/edit#gid=0&range=A384
+
 Second session 2016, rating here
 https://docs.google.com/spreadsheets/d/15e1K0tg5ponA5R6YQkZfihrShTDLAKf5qeKaoVCiuhQ/edit#gid=0
 
