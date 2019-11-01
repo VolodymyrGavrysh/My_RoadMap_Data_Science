@@ -4,7 +4,7 @@ Python 3.6 & Django by https://ithillel.ua/ - completed [Sertificate](https://ra
 ## Data Science
 
 #### DEVrepublik 
-Data Science bootcamp
+Data Science bootcamp 2019 - 2020 
 
 #### DataCamp account&progress https://www.datacamp.com/profile/VolodymyrGavrysh
 
