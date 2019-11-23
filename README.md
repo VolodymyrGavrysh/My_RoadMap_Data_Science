@@ -67,7 +67,7 @@ https://docs.google.com/spreadsheets/d/19AGEhUQUol6_kNLKSzBsjcGUU3qWy3BNUg8x8IFk
 ### Publications
 | **Links**                                                                                              |
 |--------------------------------------------------------------------------------------------------------|
-|['Testing the null hypothesis using bootstrapping on the example of salaries of Ukrainian programmers (14 and 19 years)'](https://github.com/VolodymyrGavrysh/My_RoadMap_Data_Science/tree/master/habr)|
+|['Testing the null hypothesis using bootstrapping on the example of salaries of Ukrainian programmers'](https://github.com/VolodymyrGavrysh/My_RoadMap_Data_Science/tree/master/habr)|
 
 #### Stanford University
 | **Course**                                       | Topics                    | Status        |
