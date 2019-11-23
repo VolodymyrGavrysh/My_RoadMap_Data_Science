@@ -3,8 +3,9 @@
 Python 3.6 & Django by https://ithillel.ua/ - completed [Sertificate](https://raw.githubusercontent.com/VolodymyrGavrysh/My_RoadMap_Data_Science/master/pictures/ext.jpeg)
 ## Data Science
 
-#### DEVrepublik 
-Data Science bootcamp 2019 - 2020 
+#### DEVrepublik
+https://devrepublik.com/
+Data Science bootcamp session 2019 - 2020 
 
 #### DataCamp account&progress https://www.datacamp.com/profile/VolodymyrGavrysh
 
@@ -60,18 +61,19 @@ Data Science bootcamp 2019 - 2020
 | **Course**                                       | Topics                    | Status        |
 |--------------------------------------------------|---------------------------|---------------|
 | cs231n  http://cs231n.stanford.edu/syllabus.html | CNN                       | 2d homework   |
-| cs229   http://cs229.stanford.edu/syllabus.html  | ML                        | 2019          |
-| cs121   Introduction to Theoretical ComputerS    | + Introduction to AI      | ?             |
-| cs50 Introduction to Computer Science            | Computer Science          | 2019          |
-| cs 161 http://web.stanford.edu/class/cs161/      | Design Analysis Algorithms| 2019          |
-| cs124  Algorithms                                | Algorithms                | ?             |
+| cs229   http://cs229.stanford.edu/syllabus.html  | ML                        | in progress       |
+| cs121   Introduction to Theoretical ComputerS    | + Introduction to AI      | in progress       |
+| cs50 Introduction to Computer Science            | Computer Science          | in progress       |
+| cs 161 http://web.stanford.edu/class/cs161/      | Design Analysis Algorithms| in progress       |
+| cs124  Algorithms                                | Algorithms                | in progress       |
 
 #### MLcourse.ai Open Machine Learning Course https://mlcourse.ai/rating
+
+5th session 2019, 368th from 2360 participants
+https://docs.google.com/spreadsheets/d/15e1K0tg5ponA5R6YQkZfihrShTDLAKf5qeKaoVCiuhQ/edit#gid=0
+
 4th session 2018, 384th place from 2200 participants
 https://docs.google.com/spreadsheets/d/19AGEhUQUol6_kNLKSzBsjcGUU3qWy3BNUg8x8IFkO3Q/edit#gid=0&range=A384
-
-Second session 2016, rating here
-https://docs.google.com/spreadsheets/d/15e1K0tg5ponA5R6YQkZfihrShTDLAKf5qeKaoVCiuhQ/edit#gid=0
 
 #### Coursera
 Introduction to Finance
