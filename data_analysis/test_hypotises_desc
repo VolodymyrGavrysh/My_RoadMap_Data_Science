@@ -1,0 +1,14 @@
+A researcher hypothesizes that electrical stimulation of the lateral habenula will result in a decrease in food intake (in this case, chocolate chips) in rats. Rats undergo stereotaxic surgery and an electrode is implanted in the right lateral habenula. Following a ten day recovery period, rats (kept at 80 percent body weight) are tested for the number of chocolate chips consumed during a 10 minute period of time both with and without electrical stimulation. The testing conditions are counter balanced. Compute the appropriate t-test for the data provided below.
+
+1. What would be the null hypothesis in this study?
+2. What would be the alternate hypothesis?
+3. What probability level did you choose and why?
+4. What were your degrees of freedom?
+5. Is there a significant difference between the two testing conditions?
+6. Interpret your answer.
+7. If you have made an error, would it be a Type I or a Type II error?
+
+
+
+
+In this task you should perform investigation of the transactions dataset of some e-commerce service that provides different kind of **service-packages** and performs on both **desktop** and **mobile**. Each record corresponds to the website visit session by certain user and could be finished by buying the product of not (see `is_paid_order` column).
