@@ -12,3 +12,5 @@ https://github.com/VolodymyrGavrysh/My_RoadMap_Data_Science/blob/master/data_ana
 Transactions_dataset_analysis
 https://github.com/VolodymyrGavrysh/My_RoadMap_Data_Science/blob/master/data_analysis/Transactions%20dataset%20research%20task.ipynb
 
+Reddit Group analysis
+https://github.com/VolodymyrGavrysh/My_RoadMap_Data_Science/blob/master/data_analysis/reddit_analysis_task.ipynb
