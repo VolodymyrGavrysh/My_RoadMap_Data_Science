@@ -1,12 +1,12 @@
 ![](https://raw.githubusercontent.com/VolodymyrGavrysh/My_RoadMap_Data_Science/master/pictures/ai.jpg)
 ## Programming
-Python 3.6 & Django by https://ithillel.ua/ - completed [Sertificate](https://raw.githubusercontent.com/VolodymyrGavrysh/My_RoadMap_Data_Science/master/pictures/ext.jpeg)
+Python 3.6 & Django by https://ithillel.ua/ - completed [Sertificate](https://raw.githubusercontent.com/VolodymyrGavrysh/My_RoadMap_Data_Science/master/pictures/ext.jpeg) - completed
 ## Data Science
 
 #### WorldQUANT University 
-Scientific Computing and Python for Data Science [Sertificate](https://raw.githubusercontent.com/VolodymyrGavrysh/My_RoadMap_Data_Science/master/pictures/0.jpeg)
+Scientific Computing and Python for Data Science [Sertificate](https://raw.githubusercontent.com/VolodymyrGavrysh/My_RoadMap_Data_Science/master/pictures/0.jpeg) Applyed Data Science Module 1 with honor - completed
 
-Applyed Data Science Module 1 with honor 
+
 
 #### DEVrepublik
 https://devrepublik.com/
