@@ -14,3 +14,8 @@ https://github.com/VolodymyrGavrysh/My_RoadMap_Data_Science/blob/master/data_ana
 
 Reddit Group analysis
 https://github.com/VolodymyrGavrysh/My_RoadMap_Data_Science/blob/master/data_analysis/reddit_analysis_task.ipynb
+
+Titanic Survival analysis with prediction and feature importance
+
+https://github.com/VolodymyrGavrysh/My_RoadMap_Data_Science/blob/master/data_analysis/Titanic_analysis.ipynb
+

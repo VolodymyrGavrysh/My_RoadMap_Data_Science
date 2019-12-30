@@ -1,0 +1,37 @@
+# Task for Data Scientist - Analyze reddit group
+
+
+
+Collect and analyze data.
+
+Create the necessary aggregations and data representations.
+
+Create a visualization of the collected data.
+
+Provide an analysis of the work done and the results of the test task.
+
+About the data source https://www.reddit.com/r/SnapLenses/
+This is a community lens subreddit.
+
+Community lenses - lenses developed by designers in an open studio.
+
+Users can create a lens on their own and send it for review.
+
+If the lens passes the review, it will be released for general use. FAQ - https://lensstudio.snapchat.com/support/.
+
+Task description
+
+It is necessary in any convenient way to collect information on publications in this subreddit (subreddit), and to analyze the data.
+
+Questions and tasks that must be completed as part of the test task:
+
+Collect data.
+Build a graph of the number of publications by day. Is there a tendency to increase / decrease the number of publications?
+
+Identify the most active users who publish most often.
+
+Identify the most popular publications by the number of comments and “vote”
+Is there a correlation between the number of likes and comments of publications?
+Is it possible to identify the main features on the basis of which it can be assumed whether the publication will be popular (the number of Vote) or not?
+What insights can be gleaned from existing data? How can they be useful for business?
+*** The result of the work performed will be considered: documentation with comments on the progress of the work; clear visualization of the collected data; presentation of the code (if it was) that was used as part of the work; analysis and conclusions that were made on the basis of the implementation of these tasks.
