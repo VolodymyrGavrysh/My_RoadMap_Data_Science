@@ -19,3 +19,7 @@ Titanic Survival analysis with prediction and feature importance
 
 https://github.com/VolodymyrGavrysh/My_RoadMap_Data_Science/blob/master/data_analysis/Titanic_analysis.ipynb
 
+Adaboost own class implementation
+
+https://github.com/VolodymyrGavrysh/My_RoadMap_Data_Science/blob/master/data_analysis/Adaboost_own_class.ipynb
+
