@@ -23,3 +23,5 @@ Adaboost own class implementation
 
 https://github.com/VolodymyrGavrysh/My_RoadMap_Data_Science/blob/master/data_analysis/Adaboost_own_class.ipynb
 
+Heart Deciseas analysis
+https://github.com/VolodymyrGavrysh/My_RoadMap_Data_Science/blob/master/data_analysis/Hear_Disease_Data_Exploration.ipynb
