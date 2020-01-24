@@ -7,12 +7,27 @@ Python 3.6 & Django by https://ithillel.ua/ - completed [Sertificate](https://ra
 Scientific Computing and Python for Data Science [Sertificate](https://raw.githubusercontent.com/VolodymyrGavrysh/My_RoadMap_Data_Science/master/pictures/0.jpeg) Applyed Data Science Module 1 with honor - completed
 
 
-
 #### DEVrepublik
 https://devrepublik.com/
 Data Science bootcamp session 2019 - 2020 
 
-#### Completed Projects (here https://github.com/VolodymyrGavrysh/DataCamp_projects)
+#### Analysis Projects
+**AdaBoost own class implementation¶**
+https://github.com/VolodymyrGavrysh/My_RoadMap_Data_Science/blob/master/data_analysis/Adaboost_own_class.ipynb
+**Diabetes 130-US hospitals for years 1999-2008 Data Set¶**
+https://github.com/VolodymyrGavrysh/My_RoadMap_Data_Science/blob/master/data_analysis/Diabetes%20130-US%20hospitals%20for%20years%201999-2008%20Data.ipynb
+**Hear_Disease_Data_Exploration**
+https://github.com/VolodymyrGavrysh/My_RoadMap_Data_Science/blob/master/data_analysis/Hear_Disease_Data_Exploration.ipynb
+**Statistical_Tests_Significance_testing_AB_Testing_Simpson_paradox**
+https://github.com/VolodymyrGavrysh/My_RoadMap_Data_Science/blob/master/data_analysis/Statistical_Tests_Significance_testing_AB_Testing_Simpson_paradox.ipynb
+**Titanic_analysis**
+https://github.com/VolodymyrGavrysh/My_RoadMap_Data_Science/blob/master/data_analysis/Titanic_analysis.ipynb
+**Transactions dataset research task.**
+https://github.com/VolodymyrGavrysh/My_RoadMap_Data_Science/blob/master/data_analysis/Transactions%20dataset%20research%20task.ipynb
+**Task for Data Scientist - Analyze reddit group¶**
+https://github.com/VolodymyrGavrysh/My_RoadMap_Data_Science/blob/master/data_analysis/reddit_analysis_task.ipynb
+
+#### Other Completed Projects (here https://github.com/VolodymyrGavrysh/DataCamp_projects)
 
 | **Course & projects**                 | Topics                    | Status   |
 |---------------------------------------|---------------------------|----------|
