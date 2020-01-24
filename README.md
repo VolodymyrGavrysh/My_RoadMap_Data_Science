@@ -20,7 +20,7 @@ Data Science bootcamp session 2019 - 2020
 |New Era of Data Analysis in Baseball   |Projects                   |completed |
 | Visual History of Nobel Prize Winners |Projects                   |completed |
 
-+ 30 others completed projects (here https://github.com/VolodymyrGavrysh/DataCamp_projects)
++ +30 others completed projects (here https://github.com/VolodymyrGavrysh/DataCamp_projects)
 
 #### MLcourse.ai Open Machine Learning Course https://mlcourse.ai/rating
 
