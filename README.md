@@ -20,8 +20,8 @@ https://github.com/VolodymyrGavrysh/My_RoadMap_Data_Science/blob/master/data_ana
 
 **Hear_Disease_Data_Exploration**
 https://github.com/VolodymyrGavrysh/My_RoadMap_Data_Science/blob/master/data_analysis/Hear_Disease_Data_Exploration.ipynb
-**Statistical_Tests_Significance_testing_AB_Testing_Simpson_paradox**
 
+**Statistical_Tests_Significance_testing_AB_Testing_Simpson_paradox**
 https://github.com/VolodymyrGavrysh/My_RoadMap_Data_Science/blob/master/data_analysis/Statistical_Tests_Significance_testing_AB_Testing_Simpson_paradox.ipynb
 
 **Titanic_analysis**
