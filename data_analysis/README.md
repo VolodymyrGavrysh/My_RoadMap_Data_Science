@@ -25,3 +25,10 @@ https://github.com/VolodymyrGavrysh/My_RoadMap_Data_Science/blob/master/data_ana
 
 Heart Deciseas analysis
 https://github.com/VolodymyrGavrysh/My_RoadMap_Data_Science/blob/master/data_analysis/Hear_Disease_Data_Exploration.ipynb
+
+load huge .csv files
+
+on Kaggle
+https://www.kaggle.com/volodymyrgavrysh/processing-large-csv-files-on-job-data-set
+Code
+https://github.com/VolodymyrGavrysh/My_RoadMap_Data_Science/blob/master/data_analysis/test_assignment_01/test_load.py
