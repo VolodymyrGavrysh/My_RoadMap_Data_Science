@@ -35,4 +35,4 @@ https://www.kaggle.com/volodymyrgavrysh/processing-large-csv-files-on-job-data-s
 https://github.com/VolodymyrGavrysh/My_RoadMap_Data_Science/blob/master/data_analysis/test_assignment_01/test_load.py
 
 ## Medical task - Consumer Clustering
-
+https://github.com/VolodymyrGavrysh/My_RoadMap_Data_Science/blob/master/data_analysis/Drug_store_task/data_clearing_clusters.ipynb
