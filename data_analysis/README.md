@@ -33,3 +33,6 @@ https://www.kaggle.com/volodymyrgavrysh/processing-large-csv-files-on-job-data-s
 
 ### Code github
 https://github.com/VolodymyrGavrysh/My_RoadMap_Data_Science/blob/master/data_analysis/test_assignment_01/test_load.py
+
+## Medical task - Consumer Clustering
+
