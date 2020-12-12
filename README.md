@@ -6,10 +6,15 @@ Python 3.6 & Django by https://ithillel.ua/ - completed [Sertificate](https://ra
 #### WorldQUANT University 
 Scientific Computing and Python for Data Science [Sertificate](https://raw.githubusercontent.com/VolodymyrGavrysh/My_RoadMap_Data_Science/master/pictures/0.jpeg) Applyed Data Science Module 1 with honor - completed
 
-
 #### DEVrepublik
 https://devrepublik.com/
 Data Science bootcamp session 2019 - 2020 
+
+#### Harvard CS50’s Introduction to Artificial Intelligence with Python
+https://cs50.harvard.edu/ai/2020/
+Online course
+Homework and solution 
+https://github.com/VolodymyrGavrysh/cs50_2020
 
 #### Analysis Projects
 **AdaBoost own class implementation¶**
@@ -99,6 +104,7 @@ https://docs.google.com/spreadsheets/d/19AGEhUQUol6_kNLKSzBsjcGUU3qWy3BNUg8x8IFk
 | **Course**                                       | Topics                    | Status        |
 |--------------------------------------------------|---------------------------|---------------|
 | cs231n  http://cs231n.stanford.edu/syllabus.html | CNN                       | 2d homework   |
+| cs50 ai https://cs50.harvard.edu/ai/2020/        | AI                        | completed     |
 | cs229   http://cs229.stanford.edu/syllabus.html  | ML                        | in progress       |
 | cs121   Introduction to Theoretical ComputerS    | + Introduction to AI      | in progress       |
 | cs50 Introduction to Computer Science            | Computer Science          | in progress       |
