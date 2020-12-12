@@ -2,18 +2,22 @@
 
 ## Programming
 Python 3.6 & Django by https://ithillel.ua/ - completed [Sertificate](https://raw.githubusercontent.com/VolodymyrGavrysh/My_RoadMap_Data_Science/master/pictures/ext.jpeg) - completed
+
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Data Science
 
 #### WorldQUANT University 
+
 Scientific Computing and Python for Data Science [Sertificate](https://raw.githubusercontent.com/VolodymyrGavrysh/My_RoadMap_Data_Science/master/pictures/0.jpeg) Applyed Data Science Module 1 with honor - completed
 
 #### DEVrepublik
+
 https://devrepublik.com/
 Data Science bootcamp session 2019 - 2020 
 
 #### Harvard CS50’s Introduction to Artificial Intelligence with Python
+
 https://cs50.harvard.edu/ai/2020/
 Online course
 
@@ -21,16 +25,21 @@ Homework and solution
 https://github.com/VolodymyrGavrysh/cs50_2020
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Pet projects
+
 ### Weather Scan Service
+
 https://weather-scan.herokuapp.com/
 With machine learning algoritms weather scan is able to predict rain and other critical weather characteristics in 49 regions in Australia. It could be used for any other locations over the world.
 
 ### Prevent Corruption with whistleblower system
+
 https://stop-corruption.herokuapp.com/
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 ##  Analysis Projects
+
 **AdaBoost own class implementation¶**
 https://github.com/VolodymyrGavrysh/My_RoadMap_Data_Science/blob/master/data_analysis/Adaboost_own_class.ipynb
 
