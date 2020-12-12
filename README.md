@@ -24,6 +24,14 @@ Online course
 Homework and solution 
 https://github.com/VolodymyrGavrysh/cs50_2020
 
+#### Amazon training and certification 2020
+
+The elements of Data Science Course 2020
+
+https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=2cOxyjcaWkyKDx5AekcVDg2
+
+#### Stanford SQL 2020 Online course
+
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Pet projects
