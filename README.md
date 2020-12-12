@@ -78,7 +78,9 @@ https://github.com/VolodymyrGavrysh/My_RoadMap_Data_Science/blob/master/data_ana
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Other Completed Projects (here https://github.com/VolodymyrGavrysh/DataCamp_projects)
+## Other Completed Projects 
+
+all here https://github.com/VolodymyrGavrysh/DataCamp_projects
 
 | **Course & projects**                 | Topics                    | Status   |
 |---------------------------------------|---------------------------|----------|
@@ -90,7 +92,9 @@ https://github.com/VolodymyrGavrysh/My_RoadMap_Data_Science/blob/master/data_ana
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-## MLcourse.ai Open Machine Learning Course https://mlcourse.ai/rating
+## MLcourse.ai Open Machine Learning Course 
+
+https://mlcourse.ai/rating official page
 
 5th session 2019, 368th from 2360 participants
 https://docs.google.com/spreadsheets/d/15e1K0tg5ponA5R6YQkZfihrShTDLAKf5qeKaoVCiuhQ/edit#gid=0
