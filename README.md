@@ -3,6 +3,7 @@
 ## Programming
 Python 3.6 & Django by https://ithillel.ua/ - completed [Sertificate](https://raw.githubusercontent.com/VolodymyrGavrysh/My_RoadMap_Data_Science/master/pictures/ext.jpeg) - completed
 -----------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Data Science
 
 #### WorldQUANT University 
@@ -15,9 +16,11 @@ Data Science bootcamp session 2019 - 2020
 #### Harvard CS50’s Introduction to Artificial Intelligence with Python
 https://cs50.harvard.edu/ai/2020/
 Online course
-Homework and solution https://github.com/VolodymyrGavrysh/cs50_2020
--------------------------------------------------------------------------------------------------------------------------------------------------
 
+Homework and solution 
+https://github.com/VolodymyrGavrysh/cs50_2020
+
+------------------------------------------------------------------------------------------------------------------------------------------------
 ## Pet projects
 ### Weather Scan Service
 https://weather-scan.herokuapp.com/
