@@ -30,7 +30,14 @@ The elements of Data Science Course 2020
 
 https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=2cOxyjcaWkyKDx5AekcVDg2
 
+#### Cisco Networking Academy® self-paced course
+
+Programming Essentials in Python
+
+https://github.com/VolodymyrGavrysh/My_RoadMap_Data_Science/blob/master/pictures/VolodymyrGavrysh-PCAP%20Programming-certificate.pdf
+
 #### Stanford SQL 2020 Online course
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
