@@ -1,9 +1,9 @@
 ![](https://raw.githubusercontent.com/VolodymyrGavrysh/My_RoadMap_Data_Science/master/pictures/ai.jpg)
 
-## Programming
+## Programming (Python )
 Python 3.6 & Django by https://ithillel.ua/ - completed [Sertificate](https://raw.githubusercontent.com/VolodymyrGavrysh/My_RoadMap_Data_Science/master/pictures/ext.jpeg) - completed
 
------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 ## Data Science
 
@@ -19,7 +19,7 @@ Data Science bootcamp session 2019 - 2020
 #### Harvard CS50’s Introduction to Artificial Intelligence with Python
 
 https://cs50.harvard.edu/ai/2020/
-Online course
+Online course - [Sertificate](https://raw.githubusercontent.com/VolodymyrGavrysh/My_RoadMap_Data_Science/master/pictures/photo5271631155780760065.jpg)
 
 Homework and solution 
 https://github.com/VolodymyrGavrysh/cs50_2020
@@ -37,7 +37,7 @@ Programming Essentials in Python
 https://github.com/VolodymyrGavrysh/My_RoadMap_Data_Science/blob/master/pictures/VolodymyrGavrysh-PCAP%20Programming-certificate.pdf
 
 #### Stanford SQL 2020 Online course
-
+[Sertificate](https://raw.githubusercontent.com/VolodymyrGavrysh/My_RoadMap_Data_Science/master/pictures/StatementSQL_STANford.pdf) 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -52,9 +52,9 @@ With machine learning algoritms weather scan is able to predict rain and other c
 
 https://stop-corruption.herokuapp.com/
 
--------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
-## Stanford University
+## Stanford University Course
 
 | **Course**                                       | Topics                    | Status            |
 |--------------------------------------------------|---------------------------|-------------------|
