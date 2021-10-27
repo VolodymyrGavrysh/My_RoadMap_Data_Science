@@ -1,6 +1,6 @@
 Click==7.0
 cloudpickle==1.2.2
-dask==2.10.1
+dask==2021.10.0
 dask-glm==0.2.0
 dask-ml==1.2.0
 distributed==2.10.0
