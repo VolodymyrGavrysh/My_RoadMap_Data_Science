@@ -1,4 +1,6 @@
 
+![](https://raw.githubusercontent.com/VolodymyrGavrysh/My_RoadMap_Data_Science/master/pictures/73d281ff-499a-4e94-a242-30fe2c09d15c.jpeg)
+
 **Meeting Kyiv Data Science community at 11.12.21**
 
 Learning materials:
