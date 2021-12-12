@@ -39,6 +39,9 @@ https://github.com/VolodymyrGavrysh/My_RoadMap_Data_Science/blob/master/pictures
 #### Stanford SQL 2020 Online course
 [Sertificate](https://raw.githubusercontent.com/VolodymyrGavrysh/My_RoadMap_Data_Science/master/pictures/StatementSQL_STANford.pdf) 
 
+##### Databricks Certified Associate Developer for Apache Spark 3.0 Certification
+[Sertificate](https://academy.databricks.com/award/certification/12a922d4-2762-3ba7-b7f1-7b6a2bbbfea5/view-ext)
+
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Pet projects
