@@ -17,4 +17,6 @@ Learning materials:
 
 4. slides -> lecture slides
 
+5. data -> sample data for analysis 
+
 ! Use free 14 days edition https://databricks.com/try-databricks/
