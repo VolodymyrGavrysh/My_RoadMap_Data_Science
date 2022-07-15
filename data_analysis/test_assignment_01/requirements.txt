@@ -3,7 +3,7 @@ cloudpickle==1.2.2
 dask==2021.10.0
 dask-glm==0.2.0
 dask-ml==1.2.0
-distributed==2.10.0
+distributed==2021.10.0
 fsspec==0.6.2
 HeapDict==1.0.1
 joblib==0.14.1
