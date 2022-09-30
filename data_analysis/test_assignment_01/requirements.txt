@@ -6,7 +6,7 @@ dask-ml==1.2.0
 distributed==2.10.0
 fsspec==0.6.2
 HeapDict==1.0.1
-joblib==0.14.1
+joblib==1.2.0
 llvmlite==0.31.0
 locket==0.2.0
 msgpack==0.6.2
